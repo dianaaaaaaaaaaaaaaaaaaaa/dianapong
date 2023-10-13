@@ -1,4 +1,3 @@
-
 from pygame import *
 '''Необходимые классы'''
 
@@ -93,3 +92,4 @@ while game:
 
    display.update()
    clock.tick(FPS)
+
